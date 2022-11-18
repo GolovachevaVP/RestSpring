@@ -1,4 +1,4 @@
-package com.example.restspring;
+package com.example.restspring.service;
 
 import lombok.Data;
 
